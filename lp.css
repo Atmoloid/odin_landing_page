@@ -6,10 +6,12 @@ body{
 }
 .container-imges{
    position: absolute;
-    top: 70%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    top: 50%;
+    left: 18%;
+    width: 800px;
+    height: 200px;
+    background-color: #3882f6;
+    padding-bottom: 11%;
 }
 img{
    height: 100px;
