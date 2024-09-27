@@ -63,3 +63,30 @@ h1{
 .text{
     width: 1000px; 
 }
+.bottom-text{
+    position: absolute;
+    bottom: -30%;
+    width: 900px;
+    font-size: x-large;
+}
+.bottom-image{
+    position: absolute;
+    bottom: -32%;
+    right: 3%;
+    height: 240px;
+    width: 240px;
+}
+.deep-txt{
+    position: absolute;
+    bottom: -52%;
+    right: 2%;
+    width: 900px;
+    font-size: x-large;
+}
+.deep-img{
+    position: absolute;
+    bottom: -67%;
+    height: 240px;
+    width: 240px;
+}
+    
